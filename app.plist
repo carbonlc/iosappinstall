@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://hn.qmwgame.com/down/client/hnmj.ipa</string>
+					<string>http://hnmj.qmwgame.com:90/hnmj.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -23,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>qmwgame hnmj.ipa download...</string>
+				<string>全民玩麻将下载 </string>
 			</dict>
 		</dict>
 	</array>
